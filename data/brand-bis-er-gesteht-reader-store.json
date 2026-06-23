@@ -51,7 +51,29 @@
       "updatedAt": "2026-06-23T15:14:14.941Z"
     }
   ],
-  "students": [],
-  "work": [],
+  "students": [
+    {
+      "id": "reader-student-mqqsbwd3-ec8dci",
+      "classId": "reader-class-default",
+      "displayName": "Patrick Fischer",
+      "createdAt": "2026-06-23T15:14:15.831Z",
+      "lastSeenAt": "2026-06-23T15:14:15.831Z"
+    }
+  ],
+  "work": [
+    {
+      "id": "reader-work-mqqsbwd3-zxaj16",
+      "studentId": "reader-student-mqqsbwd3-ec8dci",
+      "classId": "reader-class-default",
+      "selectedLessonId": "lektion-01",
+      "moduleId": null,
+      "entryId": null,
+      "theoryId": null,
+      "notes": {},
+      "lastMode": "open",
+      "createdAt": "2026-06-23T15:14:15.831Z",
+      "updatedAt": "2026-06-23T15:14:15.831Z"
+    }
+  ],
   "reviews": []
 }
