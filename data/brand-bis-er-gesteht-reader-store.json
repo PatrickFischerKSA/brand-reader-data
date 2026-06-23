@@ -1,0 +1,57 @@
+{
+  "classes": [
+    {
+      "id": "reader-class-default",
+      "name": "Bis er gesteht Lernende",
+      "code": "HEID-10A",
+      "lessonIds": [
+        "lektion-01",
+        "lektion-02",
+        "lektion-03",
+        "lektion-04",
+        "lektion-05",
+        "lektion-06"
+      ],
+      "activeSebLessonId": "lektion-01",
+      "allowOpen": true,
+      "allowSeb": true,
+      "peerReviewEnabled": true,
+      "requiredPeerReviews": 2,
+      "peerReviewLessonId": "lektion-01",
+      "peerReviewVisibility": "assigned-only",
+      "peerReviewInstructions": "Arbeite textnah, entwicklungsorientiert und präzise. Nenne mindestens eine Stärke, eine konkrete Überarbeitung und eine Rückfrage zu Motiv, Figur, Perspektive oder Sprache.",
+      "peerReviewCriteria": [
+        {
+          "id": "textnaehe",
+          "label": "Textnähe",
+          "prompt": "Arbeitet die Rückmeldung sichtbar an konkreten Stellen, Formulierungen oder Signalen des Textes?"
+        },
+        {
+          "id": "belegarbeit",
+          "label": "Belegarbeit",
+          "prompt": "Sind Beobachtung und Deutung mit Wortlaut, Signalwörtern oder klaren Verweisen gestützt?"
+        },
+        {
+          "id": "deutungsplausibilitaet",
+          "label": "Deutungsplausibilität",
+          "prompt": "Ist die Interpretation nachvollziehbar und über blosse Inhaltsangabe hinausgeführt?"
+        },
+        {
+          "id": "sprachliche_klarheit",
+          "label": "Sprachliche Klarheit",
+          "prompt": "Ist die Formulierung präzise, verständlich und gut weiterbearbeitbar?"
+        },
+        {
+          "id": "weiterarbeit",
+          "label": "Weiterarbeit",
+          "prompt": "Hilft das Feedback der anderen Person wirklich bei einer nächsten Überarbeitung?"
+        }
+      ],
+      "createdAt": "2026-06-23T15:14:14.941Z",
+      "updatedAt": "2026-06-23T15:14:14.941Z"
+    }
+  ],
+  "students": [],
+  "work": [],
+  "reviews": []
+}
