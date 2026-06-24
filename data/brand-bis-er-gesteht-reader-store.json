@@ -57,7 +57,7 @@
       "classId": "reader-class-default",
       "displayName": "Patrick Fischer",
       "createdAt": "2026-06-23T15:14:15.831Z",
-      "lastSeenAt": "2026-06-24T07:40:56.447Z"
+      "lastSeenAt": "2026-06-24T08:06:42.698Z"
     }
   ],
   "work": [
@@ -67,7 +67,7 @@
       "classId": "reader-class-default",
       "selectedLessonId": "lektion-01",
       "moduleId": "modul-01",
-      "entryId": "frage-02",
+      "entryId": "frage-01",
       "theoryId": "fall-rekonstruktion",
       "notes": {
         "__chooseYourPathSelections": {
@@ -76,7 +76,7 @@
       },
       "lastMode": "open",
       "createdAt": "2026-06-23T15:14:15.831Z",
-      "updatedAt": "2026-06-24T07:40:56.447Z"
+      "updatedAt": "2026-06-24T08:06:42.698Z"
     }
   ],
   "reviews": []
