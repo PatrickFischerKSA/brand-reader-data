@@ -57,7 +57,7 @@
       "classId": "reader-class-default",
       "displayName": "Patrick Fischer",
       "createdAt": "2026-06-23T15:14:15.831Z",
-      "lastSeenAt": "2026-06-24T08:18:41.598Z"
+      "lastSeenAt": "2026-06-24T08:18:56.125Z"
     }
   ],
   "work": [
@@ -68,7 +68,7 @@
       "selectedLessonId": "lektion-01",
       "moduleId": "modul-01",
       "entryId": "frage-01",
-      "theoryId": "erzaehltechnik",
+      "theoryId": "sprache-beweis",
       "notes": {
         "__chooseYourPathSelections": {
           "lektion-01": "notruf-protokoll"
@@ -76,7 +76,7 @@
       },
       "lastMode": "open",
       "createdAt": "2026-06-23T15:14:15.831Z",
-      "updatedAt": "2026-06-24T08:18:41.598Z"
+      "updatedAt": "2026-06-24T08:18:56.125Z"
     }
   ],
   "reviews": []
