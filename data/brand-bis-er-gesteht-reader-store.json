@@ -57,7 +57,7 @@
       "classId": "reader-class-default",
       "displayName": "Patrick Fischer",
       "createdAt": "2026-06-23T15:14:15.831Z",
-      "lastSeenAt": "2026-06-24T06:16:48.998Z"
+      "lastSeenAt": "2026-06-24T06:16:50.671Z"
     }
   ],
   "work": [
@@ -67,16 +67,16 @@
       "classId": "reader-class-default",
       "selectedLessonId": "lektion-01",
       "moduleId": "modul-01",
-      "entryId": "frage-02",
-      "theoryId": "sprache-beweis",
+      "entryId": "frage-03",
+      "theoryId": "fall-rekonstruktion",
       "notes": {
         "__chooseYourPathSelections": {
-          "lektion-01": "notruf-sprache"
+          "lektion-01": "notruf-tatortspur"
         }
       },
       "lastMode": "open",
       "createdAt": "2026-06-23T15:14:15.831Z",
-      "updatedAt": "2026-06-24T06:16:48.998Z"
+      "updatedAt": "2026-06-24T06:16:50.671Z"
     }
   ],
   "reviews": []
