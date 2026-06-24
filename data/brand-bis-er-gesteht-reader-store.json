@@ -57,7 +57,7 @@
       "classId": "reader-class-default",
       "displayName": "Patrick Fischer",
       "createdAt": "2026-06-23T15:14:15.831Z",
-      "lastSeenAt": "2026-06-24T08:18:56.125Z"
+      "lastSeenAt": "2026-06-24T08:42:50.934Z"
     }
   ],
   "work": [
@@ -65,9 +65,9 @@
       "id": "reader-work-mqqsbwd3-zxaj16",
       "studentId": "reader-student-mqqsbwd3-ec8dci",
       "classId": "reader-class-default",
-      "selectedLessonId": "lektion-01",
-      "moduleId": "modul-01",
-      "entryId": "frage-01",
+      "selectedLessonId": "lektion-02",
+      "moduleId": "modul-02",
+      "entryId": "frage-04",
       "theoryId": "sprache-beweis",
       "notes": {
         "__chooseYourPathSelections": {
@@ -76,7 +76,7 @@
       },
       "lastMode": "open",
       "createdAt": "2026-06-23T15:14:15.831Z",
-      "updatedAt": "2026-06-24T08:18:56.125Z"
+      "updatedAt": "2026-06-24T08:42:50.934Z"
     }
   ],
   "reviews": []
