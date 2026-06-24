@@ -57,7 +57,7 @@
       "classId": "reader-class-default",
       "displayName": "Patrick Fischer",
       "createdAt": "2026-06-23T15:14:15.831Z",
-      "lastSeenAt": "2026-06-24T06:28:52.786Z"
+      "lastSeenAt": "2026-06-24T06:29:10.764Z"
     }
   ],
   "work": [
@@ -68,7 +68,7 @@
       "selectedLessonId": "lektion-01",
       "moduleId": "modul-01",
       "entryId": "frage-03",
-      "theoryId": "fall-rekonstruktion",
+      "theoryId": "erzaehltechnik",
       "notes": {
         "__chooseYourPathSelections": {
           "lektion-01": "notruf-tatortspur"
@@ -76,7 +76,7 @@
       },
       "lastMode": "open",
       "createdAt": "2026-06-23T15:14:15.831Z",
-      "updatedAt": "2026-06-24T06:28:52.786Z"
+      "updatedAt": "2026-06-24T06:29:10.764Z"
     }
   ],
   "reviews": []
