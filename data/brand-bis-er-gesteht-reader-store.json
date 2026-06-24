@@ -57,7 +57,7 @@
       "classId": "reader-class-default",
       "displayName": "Patrick Fischer",
       "createdAt": "2026-06-23T15:14:15.831Z",
-      "lastSeenAt": "2026-06-24T08:42:50.934Z"
+      "lastSeenAt": "2026-06-24T08:43:03.445Z"
     }
   ],
   "work": [
@@ -65,10 +65,10 @@
       "id": "reader-work-mqqsbwd3-zxaj16",
       "studentId": "reader-student-mqqsbwd3-ec8dci",
       "classId": "reader-class-default",
-      "selectedLessonId": "lektion-02",
-      "moduleId": "modul-02",
-      "entryId": "frage-04",
-      "theoryId": "sprache-beweis",
+      "selectedLessonId": "lektion-06",
+      "moduleId": "modul-06",
+      "entryId": "frage-16",
+      "theoryId": "true-crime-ethik",
       "notes": {
         "__chooseYourPathSelections": {
           "lektion-01": "notruf-protokoll"
@@ -76,7 +76,7 @@
       },
       "lastMode": "open",
       "createdAt": "2026-06-23T15:14:15.831Z",
-      "updatedAt": "2026-06-24T08:42:50.934Z"
+      "updatedAt": "2026-06-24T08:43:03.445Z"
     }
   ],
   "reviews": []
